@@ -3,6 +3,8 @@ Tokyo - 東京
 
 nodeschool東京のグループです。
 
+READMEを違う言語で読む: [English](README.md)
+
 ## チャット
 
 私たちは、Gitterを通して翻訳作業であったりバグを直しています。

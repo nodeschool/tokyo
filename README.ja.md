@@ -1,5 +1,6 @@
 Tokyo - 東京
 ============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/nodeschool-japan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 nodeschool東京のグループです。
 

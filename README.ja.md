@@ -2,11 +2,13 @@ Tokyo - 東京
 ============
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/nodeschool-japan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-nodeschool group for Tokyo, JAPAN
+nodeschool東京のグループです。
 
-Read this in other languages: [日本語](README.ja.md)
+READMEを違う言語で読む: [English](README.md)
 
-## translated workshops
+## ワークショップ一覧
+
+翻訳されたワークショップの一覧：
 
 - https://github.com/maxogden/learnyounode-jp
 - https://github.com/maxogden/levelmeup-jp

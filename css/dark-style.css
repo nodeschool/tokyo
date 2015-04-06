@@ -13,7 +13,7 @@ header h1{
   font-size: 40px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  background: #303030 url('schoollines.png') center bottom no-repeat;
+  background: #303030 url('../images/schoollines.png') center bottom no-repeat;
   background-size: auto 100px;
   color:#F7DA03;
 }
@@ -52,7 +52,7 @@ header h1 .where{
 }
 footer{
   height: 160px;
-  background: url('node-js.svg') center center no-repeat;
+  background: url('../images/node-js.svg') center center no-repeat;
   background-size: auto 150px;
   margin-top: 50px;
 }
@@ -189,9 +189,17 @@ a:hover{
   margin-bottom: 80px;
 }
 
+#logo {
+  display: none;
+}
+
+.map img {
+  max-width: 100%
+}
+
 @media screen and (min-width : 500px) {
   header h1{
-    background: #303030 url('schoollines.png') center 20px no-repeat;
+    background: #303030 url('../images/schoollines.png') center 20px no-repeat;
     background-size: auto 120px;
   }
   header h1 .container{
@@ -222,6 +230,13 @@ a:hover{
   }
   .terms {
     text-align: center;
+  }
+  #logo {
+    float: right;
+    height: 130px;
+    margin-top: 10px;
+    margin-right: 60px;
+    display: block;
   }
 }
 

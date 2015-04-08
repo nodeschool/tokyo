@@ -10,6 +10,8 @@ READMEを違う言語で読む: [English](README.md)
 
 翻訳されたワークショップの一覧：
 
-- https://github.com/maxogden/learnyounode-jp
-- https://github.com/maxogden/levelmeup-jp
-- https://github.com/maxogden/browserify-adventure-jp
+- [learnyounode](https://github.com/rvagg/learnyounode)
+- [levelmeup-jp](https://github.com/maxogden/levelmeup-jp)
+- [javascripting-jp](https://github.com/ledsun/javascripting)
+- [how-to-npm-jp](https://github.com/nodeschool-jp/how-to-npm-jp)
+- [browserify-adventure-jp](https://github.com/maxogden/browserify-adventure-jp)

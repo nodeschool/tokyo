@@ -27,7 +27,7 @@ please contact an organizer immediately.
 
 ### **Name of Nodeschool Chapter**
 
-* Organizers: **[@sota0805](https://twitter.com/sota0805), [@tgfjt](https://twitter.com/tgfjt), [@leichtgewicht](https://twitter.com/leichtgewicht),[@watilde](https://twitter.com/watilde)**
+* Organizers: **[@sota0805](https://twitter.com/sota0805), [@tgfjt](https://twitter.com/tgfjt), [@leichtgewicht](https://twitter.com/leichtgewicht),[@watilde](https://twitter.com/watilde), [@kohei_takata](https://twitter.com/kohei_takata)**
 * Meetup URL: **http://nodejs.connpass.com/**
 
 **If you have questions or feedback about this Code of Conduct please contact

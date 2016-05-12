@@ -22,7 +22,7 @@
 
 ### **NodeSchool Tokyo**
 
-* 主催者: **[@sota0805](https://twitter.com/sota0805), [@tgfjt](https://twitter.com/tgfjt), [@leichtgewicht](https://twitter.com/leichtgewicht),[@watilde](https://twitter.com/watilde), [@kohei_takata](https://twitter.com/kohei_takata)**
+* 主催者: **[@sota0805](https://twitter.com/sota0805), [@tgfjt](https://twitter.com/tgfjt), [@leichtgewicht](https://twitter.com/leichtgewicht), [@watilde](https://twitter.com/watilde), [@kohei_takata](https://twitter.com/kohei_takata)**
 * ミートアップのURL: **http://nodejs.connpass.com/**
 
 **もし、この行動規範についてのご質問やご意見などがありましたら、主催者の誰かにお問い合わせください。**
